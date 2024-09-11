@@ -1,0 +1,5 @@
+Flask==2.1.1              # Core framework for building web applications
+Flask-Cors==3.0.10        # To handle Cross-Origin Resource Sharing (if needed)
+Flask-Login==0.6.2        # For user session management (if needed)
+Flask-PyMongo==2.3.0      # To connect Flask with MongoDB
+pymongo==4.3.3            # The official MongoDB driver for Python
